@@ -45,7 +45,7 @@ pipeline {
             steps {
                 echo 'Running health check...'
                 sh 'sleep 10'
-                sh 'curl -f http://localhost:3000 || exit 1'
+                sh 'curl -f http://172.17.0.1:3000 || exit 1'
                 echo 'Application is running!'
             }
         }
