@@ -27,13 +27,13 @@ GitHub Push → Jenkins Pipeline → Docker Build → DockerHub → AWS EC2 Depl
 
 ## 📸 Screenshots
 ### Jenkins Pipeline — All Stages Green
-![Jenkins Pipeline](screenshots/jenkins-pipeline.png)
+![Jenkins Pipeline](jenkins-pipeline.png)
 
 ### Live Application on AWS EC2
-![Live App](screenshots/live-app.png)
+![Live App](live-app.png)
 
 ### DockerHub — Versioned Images
-![DockerHub](screenshots/dockerhub.png)
+![DockerHub](dockerhub.png)
 
 ## 🚀 How to Run Locally
 ```bash
