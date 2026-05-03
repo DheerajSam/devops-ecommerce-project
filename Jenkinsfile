@@ -3,7 +3,7 @@ pipeline {
     
     environment {
         DOCKERHUB_CREDENTIALS = credentials('dockerhub-credentials')
-        IMAGE_NAME = 'dheerajsam/devops-ecommerce'
+        IMAGE_NAME = 'dheeraj202/devops-ecommerce'
     }
     
     stages {
