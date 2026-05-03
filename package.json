@@ -1,0 +1,12 @@
+{
+  "name": "devops-ecommerce",
+  "version": "1.0.0",
+  "description": "DevOps Ecommerce Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
