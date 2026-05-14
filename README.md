@@ -59,6 +59,27 @@ http://localhost:3000
 - Automating Docker build, tag, push, and deploy workflows
 - Implementing health checks in deployment pipelines
 
+---
+
+## 🔥 Project 2 — Kubernetes + Prometheus + Grafana Monitoring
+
+### What's Running
+- Ecommerce app deployed on Kubernetes with **2 replicas**
+- Full observability via **Prometheus + Grafana** installed using Helm
+
+### Live Metrics
+- CPU Utilisation: **9.77%**
+- Memory Utilisation: **38.8%**
+- Pods monitored across: default, monitoring, kube-system namespaces
+
+### Screenshots
+![Kubernetes Pods](pods.png)
+![Prometheus Metrics](prometheus.png)
+![Grafana Dashboard](grafana.png)
+
+### Stack
+`Kubernetes` `Helm` `Prometheus` `Grafana` `Docker` `kubectl` `PromQL`
+
 ## 👤 Author
 **Dheeraj Samudrala** — DevOps Engineer
 - 🔗 LinkedIn: linkedin.com/in/dheeraj-samudrala-b99b9540
