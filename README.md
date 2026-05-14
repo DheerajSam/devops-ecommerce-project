@@ -73,9 +73,9 @@ http://localhost:3000
 - Pods monitored across: default, monitoring, kube-system namespaces
 
 ### Screenshots
-![Kubernetes Pods](Downloads/pods.png)
-![Prometheus Metrics](Downloads/prometheus.png)
-![Grafana Dashboard](Downloads/grafana.png)
+![Kubernetes Pods](pods.png)
+![Prometheus Metrics](prometheus.png)
+![Grafana Dashboard](grafana.png)
 
 ### Stack
 `Kubernetes` `Helm` `Prometheus` `Grafana` `Docker` `kubectl` `PromQL`
